@@ -1,0 +1,13 @@
+/* .sign btn{
+    margin: 0 10px 10px 10px;
+    color: white !important;
+    background-color: blueviolet;
+    border: 1px solid white;
+} */
+#offcanvasDarkNavbarLabel{
+    border-bottom: 1px solid white !important;
+    
+}
+.offcanvas{
+    margin-left: 20px;
+}
